@@ -1,0 +1,21 @@
+# Dados — não versionar CSVs grandes
+data/train.csv
+data/test.csv
+data/train_eda.csv
+
+# Ambiente Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
