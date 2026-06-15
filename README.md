@@ -198,16 +198,7 @@ Confirme que os três notebooks (01, 02 e 03) foram executados em ordem e que os
 
 ---
 
-## 8. Limitações e trabalhos futuros
-
-- **Generalização geográfica** — o dataset é restrito a Ames, Iowa, e os resultados não devem ser extrapolados para outros mercados imobiliários sem novo treinamento.
-- **Tuning de hiperparâmetros** — foi adotada uma configuração conservadora dos modelos para evitar overfitting; uma busca por grid ou bayesiana poderia melhorar marginalmente o RMSE.
-- **Stacking de modelos** — combinar previsões dos quatro modelos via meta-aprendizado é uma técnica que poderia reduzir o erro residual.
-- **Variáveis externas** — incorporar dados de macroeconomia (taxa de juros, inflação imobiliária) que não estão presentes no dataset.
-
----
-
-## 9. Referências
+## 8. Referências
 
 - Cock, D. D. (2011). Ames, Iowa: Alternative to the Boston Housing Data. *Journal of Statistics Education*, 19(3).
 - Kaggle Competition: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
