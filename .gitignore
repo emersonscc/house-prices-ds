@@ -1,7 +1,8 @@
 # Dados — não versionar CSVs grandes
-#data/train.csv
-#data/test.csv
-#data/train_eda.csv
+data/train.csv
+data/test.csv
+data/train_eda.csv
+data/data_description.txt
 
 # Ambiente Python
 __pycache__/
@@ -21,5 +22,5 @@ venv/
 Thumbs.db
 
 # Modelos treinados
-#data/*.pkl
-#data/*.csv
+data/*.pkl
+data/*.csv
