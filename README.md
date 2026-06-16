@@ -1,4 +1,4 @@
-# House Prices — Projeto Final de Data Science
+# House Prices — Projeto de Data Science
 
 Previsão de preços de imóveis residenciais com base no dataset **House Prices: Advanced Regression Techniques** (Kaggle), referente ao município de Ames, Iowa. Este projeto cobre todo o ciclo de Data Science: análise exploratória, pré-processamento, modelagem comparativa e dashboard interativo.
 
