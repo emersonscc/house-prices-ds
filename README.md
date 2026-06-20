@@ -67,7 +67,7 @@ house-prices-ds/
 ### 3.2. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/house-prices-ds.git
+git clone https://github.com/emersonscc/house-prices-ds.git
 cd house-prices-ds
 ```
 
